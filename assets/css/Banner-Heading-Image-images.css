@@ -1,0 +1,30 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+@media (min-width: 1200px) {
+  .fit-cover {
+  }
+}
+
+@media (min-width: 300px) {
+  div {
+  }
+}
+
+@media (min-width: 300px) {
+  h1 {
+  }
+}
+
+p {
+  height: 71px;
+  width: 576px;
+}
+
+@media (min-width: 300px) {
+  p {
+    /*width: 250px;*/
+  }
+}
+
