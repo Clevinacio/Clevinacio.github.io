@@ -35,4 +35,4 @@ function createButton(name) {
     return button;
 }
 
-apiGetRequest("https://jsonplaceholder.typicode.com/users", createTableBody);
+apiGetRequest("https://gestor-farma.herokuapp.com/api/estabelecimento/", createTableBody);
